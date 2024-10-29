@@ -1,0 +1,17 @@
+= 1.0.4 =
+* Some Bugfixes
+
+= 1.0.3 =
+* WordPress 6.4 and PHP 8.2 ready
+* XSS Bugfix
+
+= 1.0.2 =
+* WordPress 6.3 and PHP 8.2 ready
+
+= 1.0.1 =
+* WordPress 6.0 and PHP 8.0 ready
+
+= 1.0.0 =
+* WordPress 5.9 and PHP 8.0 ready
+
+
